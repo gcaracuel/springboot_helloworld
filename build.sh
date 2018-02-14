@@ -2,4 +2,4 @@
 
 gradle clean build --info
 
-exit 0
+exit $?
